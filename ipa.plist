@@ -11,13 +11,13 @@
 					<key>kind</key>
 					<string>software-package</string>
 					<key>url</key>
-					<string>http://ov49u3l5m.bkt.clouddn.com/LTWY.ipa</string>
+					<string>http://p70aghfji.bkt.clouddn.com/simpleInteraction.game-party-iOS.ipa</string>
 				</dict>
 			</array>
 			<key>metadata</key>
 			<dict>
 				<key>bundle-identifier</key>
-				<string>com.LTWY.HCommunity</string>
+				<string>simpleInteraction.game-party-iOS</string>
 				<key>bundle-version</key>
 				<string>1.0</string>
 				<key>kind</key>
@@ -25,7 +25,7 @@
 				<key>releaseNotes</key>
 				<string>v1(可以随意填)</string>
 				<key>title</key>
-				<string>哈哈</string>
+				<string>GameParty</string>
 			</dict>
 		</dict>
 	</array>
