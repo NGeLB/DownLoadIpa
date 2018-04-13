@@ -11,13 +11,13 @@
 					<key>kind</key>
 					<string>software-package</string>
 					<key>url</key>
-					<string>http://ov49u3l5m.bkt.clouddn.com/ThisWarMine_ppc.ipa</string>
+					<string>http://ov49u3l5m.bkt.clouddn.com/LTWY.ipa</string>
 				</dict>
 			</array>
 			<key>metadata</key>
 			<dict>
 				<key>bundle-identifier</key>
-				<string>com.11bitstudios.twommobile</string>
+				<string>com.LTWY.HCommunity</string>
 				<key>bundle-version</key>
 				<string>1.0</string>
 				<key>kind</key>
