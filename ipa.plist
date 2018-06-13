@@ -1,33 +1,35 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+
 <plist version="1.0">
-<dict>
-	<key>items</key>
-	<array>
-		<dict>
-			<key>assets</key>
-			<array>
-				<dict>
-					<key>kind</key>
-					<string>software-package</string>
-					<key>url</key>
-					<string>http://p70aghfji.bkt.clouddn.com/simpleInteraction.game-party-iOS.ipa</string>
-				</dict>
-			</array>
-			<key>metadata</key>
-			<dict>
-				<key>bundle-identifier</key>
-				<string>simpleInteraction.game-party-iOS</string>
-				<key>bundle-version</key>
-				<string>1.0</string>
-				<key>kind</key>
-				<string>software</string>
-				<key>releaseNotes</key>
-				<string>v1(可以随意填)</string>
-				<key>title</key>
-				<string>GameParty</string>
-			</dict>
-		</dict>
-	</array>
-</dict>
+  <dict>
+    <key>items</key>
+    <array>
+      <dict>
+        <key>assets</key>
+        <array>
+          <dict>
+            <key>kind</key>
+            <string>software-package</string>
+            <key>url</key>
+            <string>http://p70aghfji.bkt.clouddn.com/BeeStore_2018_06_4.ipa</string>
+          </dict>
+        </array>
+        <key>metadata</key>
+        <dict>
+          <key>bundle-identifier</key>
+          <string>com.simpleInteraction.BeeStore</string>
+          <key>bundle-version</key>
+          <string>1.1.1</string>
+          <key>releaseNotes</key>
+          <string>12</string>
+          <key>kind</key>
+          <string>software</string>
+          <key>title</key>
+          <string>beestore</string>
+        </dict>
+      </dict>
+    </array>
+  </dict>
 </plist>
+
